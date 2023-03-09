@@ -1,0 +1,14 @@
+https://www.pling.com/p/1685890/
+
+
+Need to install
+- Window Title
+- Latte Side Bar
+- Latte Spacer
+- Latte Separator
+- Better inline Clock
+- OSXLaunchpad
+- Control Centre
+- CalendarWL
+- Big Sur Inline Battery
+- Kpple Menu
